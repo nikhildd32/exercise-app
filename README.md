@@ -1,6 +1,3 @@
-To make the GitHub README more appealing and professional for recruiters, we can focus on clarity, structure, and professionalism. Here's an updated version of the README with some enhancements:
-
----
 
 # **Exercise Tracker App**
 
