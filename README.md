@@ -87,7 +87,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # exercise-app
-<img width="1058" alt="Screenshot 2024-09-04 at 5 00 39 PM" src="https://github.com/user-attachments/assets/ac44e992-7350-434e-a968
+<img width="1058" alt="Screenshot 2024-09-04 at 5 00 39 PM" src="https://github.com/user-attachments/assets/ac44e992-7350-434e-a968-30f6b96b1c5a">
+
 
 <img width="952" alt="Screenshot 2024-09-04 at 5 01 02 PM" src="https://github.com/user-attachments/assets/e7b4a70b-0b22-42ec-87de-504b6954e255">
--30f6b96b1c5a">
