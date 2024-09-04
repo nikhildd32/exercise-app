@@ -1,3 +1,21 @@
+# Exercise Tracker App
+
+This project is a simple exercise tracker built using the MERN stack, which includes MongoDB, Express.js, React.js, and Node.js. It also uses Mongoose for schema-based solution to model application data.
+
+## Technologies Used
+
+- MongoDB: A document-based open source database.
+- Express: A web application framework for Node.js.
+- React: A JavaScript front-end library for building user interfaces.
+- Node.js: JavaScript run-time environment that executes JavaScript code outside of a browser (such as a server).
+- Mongoose: A simple, schema-based solution to model application data.
+
+## Hosting
+
+The database for this application is hosted in the cloud using MongoDB Atlas and Google Cloud Platform.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,3 +87,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # exercise-app
+<img width="1058" alt="Screenshot 2024-09-04 at 5 00 39 PM" src="https://github.com/user-attachments/assets/ac44e992-7350-434e-a968
+
+<img width="952" alt="Screenshot 2024-09-04 at 5 01 02 PM" src="https://github.com/user-attachments/assets/e7b4a70b-0b22-42ec-87de-504b6954e255">
+-30f6b96b1c5a">
