@@ -1,5 +1,5 @@
 
-# **Exercise Tracker App**
+# **ExerciseTrack**
 
 A full-stack exercise tracking web application built using the MERN (MongoDB, Express, React, and Node.js) stack. This app allows users to track their exercise routines efficiently, with data stored in MongoDB and hosted on MongoDB Atlas and Google Cloud Platform.
 
